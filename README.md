@@ -2,6 +2,7 @@
 
 This project is a modified version of the original [text-behind-image](https://github.com/RexanWONG/text-behind-image) by RexanWONG.
 
+demo: https://text-behind-image-mini.vercel.app
 ![](public/Mockup.jpeg)
 
 ## Key Changes:
