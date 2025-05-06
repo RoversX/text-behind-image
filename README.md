@@ -1,4 +1,4 @@
-# Text Behind Image (Static Version)
+# Text Behind Image Mini (Static Version)
 
 This project is a modified version of the original [text-behind-image](https://github.com/RexanWONG/text-behind-image) by RexanWONG.
 
